@@ -11,6 +11,6 @@ export default defineConfig({
   },
   preview: {
     host: '0.0.0.0',  // Allow external access
-    port: 3000,        // Bind to port 3000
+    port: 4000,        // Bind to port 3000
   },
 });
