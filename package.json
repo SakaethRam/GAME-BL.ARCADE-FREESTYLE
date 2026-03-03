@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview --host --port 3000"
+    "serve": "serve dist"
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.15",
