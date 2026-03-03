@@ -23,39 +23,39 @@ type ExperienceItem = {
 
 const experiences: ExperienceItem[] = [
   {
-    year: "2016",
-    role: "BS Computer Science",
-    company: "Harvard",
-    location: "Cambridge, Massachusetts",
+    year: "2022",
+    role: "BE Computer Science",
+    company: "SRM IST",
+    location: "India",
     description:
       "Crafted immersive 3D web experiences for Fortune 500 clients.",
     tags: ["Three.js", "WebGL", "GSAP", "Vue"],
   },
   {
-    year: "2020",
-    role: "MS Deep Learning",
-    company: "Harvard",
+    year: "2023",
+    role: "AI Systems Architect",
+    company: "ARKIN X ENGINE",
     location: "Cambridge, Massachusetts",
     description:
       "Contributed to reinforcement learning research.",
     tags: ["Python", "TensorFlow", "RL", "Research"],
   },
   {
-    year: "2022",
-    role: "Full-Stack Engineer",
-    company: "Nexus Systems",
-    location: "Berlin, Germany",
+    year: "2025",
+    role: "AI & Automation Consultant",
+    company: "Prime Focus Technologies",
+    location: "Mumbai, India",
     description:
-      "Built core infrastructure for a Series B fintech startup.",
+      "Built core infrastructure for a Series B tech startup.",
     tags: ["TypeScript", "Node.js", "PostgreSQL", "React Native"],
   },
   {
-    year: "2024",
-    role: "Senior AI Engineer",
-    company: "Luminary Labs",
+    year: "2026",
+    role: "Director of AI Strategies",
+    company: "GUN | METAL",
     location: "San Francisco, CA",
     description:
-      "Led the development of a real-time LLM inference platform serving 10M+ daily requests.",
+      "Led the development of a real-time LLM inference platform serving 5k+ daily requests.",
     tags: ["LLMs", "PyTorch", "Kubernetes", "React"],
   },
 ];
@@ -244,3 +244,4 @@ function Card({ exp }: { exp: ExperienceItem }) {
   );
 
 }
+
