@@ -10,7 +10,6 @@ export default defineConfig({
     },
   },
   preview: {
-    host: '0.0.0.0',  // Allow external access
-    port: 4000,        // Bind to port 3000
+    allowedHosts: ['phoenix-main-374aada.kuberns.cloud'],
   },
 });
