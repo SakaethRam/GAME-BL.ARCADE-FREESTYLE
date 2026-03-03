@@ -8,5 +8,8 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "src"),
     },
-  }
+  },
+  preview: {
+    allowedHosts: ['phoenix-main-374aada.kuberns.cloud'], // Add your host here
+  },
 });
