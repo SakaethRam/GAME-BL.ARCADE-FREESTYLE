@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "lint": "eslint .",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.15",
