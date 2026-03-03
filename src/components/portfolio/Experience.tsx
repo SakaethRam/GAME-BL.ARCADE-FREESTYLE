@@ -23,22 +23,13 @@ type ExperienceItem = {
 
 const experiences: ExperienceItem[] = [
   {
-    year: "2024",
-    role: "Senior AI Engineer",
-    company: "Luminary Labs",
-    location: "San Francisco, CA",
+    year: "2016",
+    role: "BS Computer Science",
+    company: "Harvard",
+    location: "Cambridge, Massachusetts",
     description:
-      "Led the development of a real-time LLM inference platform serving 10M+ daily requests.",
-    tags: ["LLMs", "PyTorch", "Kubernetes", "React"],
-  },
-  {
-    year: "2022",
-    role: "Full-Stack Engineer",
-    company: "Nexus Systems",
-    location: "Berlin, Germany",
-    description:
-      "Built core infrastructure for a Series B fintech startup.",
-    tags: ["TypeScript", "Node.js", "PostgreSQL", "React Native"],
+      "Crafted immersive 3D web experiences for Fortune 500 clients.",
+    tags: ["Three.js", "WebGL", "GSAP", "Vue"],
   },
   {
     year: "2020",
@@ -50,13 +41,22 @@ const experiences: ExperienceItem[] = [
     tags: ["Python", "TensorFlow", "RL", "Research"],
   },
   {
-    year: "2016",
-    role: "BS Computer Science",
-    company: "Harvard",
-    location: "Cambridge, Massachusetts",
+    year: "2022",
+    role: "Full-Stack Engineer",
+    company: "Nexus Systems",
+    location: "Berlin, Germany",
     description:
-      "Crafted immersive 3D web experiences for Fortune 500 clients.",
-    tags: ["Three.js", "WebGL", "GSAP", "Vue"],
+      "Built core infrastructure for a Series B fintech startup.",
+    tags: ["TypeScript", "Node.js", "PostgreSQL", "React Native"],
+  },
+  {
+    year: "2024",
+    role: "Senior AI Engineer",
+    company: "Luminary Labs",
+    location: "San Francisco, CA",
+    description:
+      "Led the development of a real-time LLM inference platform serving 10M+ daily requests.",
+    tags: ["LLMs", "PyTorch", "Kubernetes", "React"],
   },
 ];
 
@@ -242,4 +242,5 @@ function Card({ exp }: { exp: ExperienceItem }) {
       </div>
     </div>
   );
+
 }
