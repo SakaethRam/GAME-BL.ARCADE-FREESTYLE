@@ -8,10 +8,5 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "src"),
     },
-  },
-  server: {
-    host: true,  // Exposes the app to all network interfaces
-    port: 3000,  // Bind to port 4173 (or use an env variable for dynamic port)
-    strictPort: true,  // Ensure Vite fails if port 3000 is already taken
-  },
+  }
 });
