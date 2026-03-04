@@ -210,7 +210,7 @@ const Footer = () => {
               </h3>
 
               <p className="mt-3 text-xs sm:text-sm text-black/60">
-                © {new Date().getFullYear()} GUN | METAL. All rights reserved.
+                © {new Date().getFullYear()} SAKAETH | RAM. All rights reserved.
               </p>
             </div>
 
@@ -241,5 +241,6 @@ const Footer = () => {
     </footer>
   );
 };
+
 
 export default Footer;
