@@ -6,6 +6,8 @@ I design and build end-to-end AI solutions, from data pipelines and model develo
 
 Driven by curiosity and craftsmanship, I explore how artificial intelligence can power experiences that are both technically sophisticated and visually cinematic.
 
+[SAM • PHOENIX](https://sam-phoenix.vercel.app)
+
 <img width="1024" height="1536" alt="UI #FIRST" src="https://github.com/user-attachments/assets/02e2701d-90cc-41b5-a803-827dac150561" />
 
 <img width="1024" height="1536" alt="UI #END" src="https://github.com/user-attachments/assets/82c30fa7-70f7-4b04-a1af-f634ee6087cc" />
