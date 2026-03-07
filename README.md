@@ -1,12 +1,10 @@
-# SAM • PHOENIX
+# SAM • PHOENIX [>>](https://sam-phoenix.vercel.app)
 
 I architect intelligent systems that merge advanced AI engineering with refined digital design. My work lives at the intersection of machine learning, system architecture, and immersive user experience where intelligence is not only functional, but intuitive and elegant.
 
 I design and build end-to-end AI solutions, from data pipelines and model development to deployment and interactive interfaces. Every system I create is engineered for depth, performance, and clarity - balancing technical precision with thoughtful aesthetics.
 
 Driven by curiosity and craftsmanship, I explore how artificial intelligence can power experiences that are both technically sophisticated and visually cinematic.
-
-[SAM • PHOENIX](https://sam-phoenix.vercel.app)
 
 <img width="1024" height="1536" alt="UI #FIRST" src="https://github.com/user-attachments/assets/02e2701d-90cc-41b5-a803-827dac150561" />
 
