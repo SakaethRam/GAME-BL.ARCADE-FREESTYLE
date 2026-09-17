@@ -1,17 +1,5 @@
-# <img width="40" height="40" alt="PHOENIX_FAV" src="https://github.com/user-attachments/assets/a09aafef-5361-45d2-9742-e917fbb2e32a" /> SAM • PHOENIX 
+# BULLETS • ARCADE 
 
-I architect intelligent systems that merge advanced AI engineering with refined digital design. My work lives at the intersection of machine learning, system architecture, and immersive user experience where intelligence is not only functional, but intuitive and elegant.
+A fast-paced arcade shooter inspired by the classic maze-chase gameplay of Pac-Man, combining tight movement, quick reflexes, and strategic shooting. Players navigate maze-like environments, collect items, avoid or defeat pursuing enemies, and clear each stage while facing progressively challenging encounters. Power-ups and upgrade mechanics introduce new ways to survive, attack, and gain an advantage during intense runs. Designed around simple controls, addictive gameplay loops, and increasing difficulty, the game delivers a nostalgic arcade experience with a modern shooter twist and strong replayability.
 
-I design and build end-to-end AI solutions, from data pipelines and model development to deployment and interactive interfaces. Every system I create is engineered for depth, performance, and clarity - balancing technical precision with thoughtful aesthetics.
-
-Driven by curiosity and craftsmanship, I explore how artificial intelligence can power experiences that are both technically sophisticated and visually cinematic.
-
-### [Visit: SAM • PHOENIX ](https://sam-phoenix.vercel.app)
-
----
-
-<img width="1024" height="1536" alt="UI #FIRST" src="https://github.com/user-attachments/assets/02e2701d-90cc-41b5-a803-827dac150561" />
-
----
-
-<img width="1024" height="1536" alt="UI #END" src="https://github.com/user-attachments/assets/82c30fa7-70f7-4b04-a1af-f634ee6087cc" />
+<img width="1800" height="1000" alt="ZREX ARCADE" src="https://github.com/user-attachments/assets/af22ac46-1616-41bb-a70c-62f439165cdd" />
